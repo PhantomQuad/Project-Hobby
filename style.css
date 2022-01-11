@@ -1,13 +1,16 @@
-body
-{
-    background-color:#d0e4fe;
-}
 h1
 {
     color:orange;
     text-align: center;
 }
+h3
+{
+    color:black;
+    text-align: center;
+}
 p
 {
-    background-color: #336699;
+    font-size: larger;
+    color:white;
+    text-align: center;
 }
